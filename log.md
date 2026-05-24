@@ -26,5 +26,5 @@
 - Read all website sections: villages, treasury, membership, pillars, FAQ
 - Saved whitepaper as raw source: raw/articles/ubuntunation-whitepaper.md
 - Rewrote entities/ubuntu-nation.md with comprehensive project brief
-- Key details captured: $1,500/yr membership, Year 4 = lifetime + 1 equity share, 3-phase governance, BTC mining + treasury strategy, 6 pillars, 3 freedoms
+- Key details captured: 1,500 EUR/yr membership, Year 4 = lifetime + 1 equity share, 3-phase governance, BTC mining + treasury strategy, 6 pillars, 3 freedoms
 - Updated log.md

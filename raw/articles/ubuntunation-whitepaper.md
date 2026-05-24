@@ -25,7 +25,7 @@ sha256: ubuntu-nation-whitepaper-v1
 3. Our Solution: UBUNTU Nation — A Sovereign Society
 4. Core Values (6 Pillars: Wealth, Health, Education, Sustainability, Freedom, Network)
 5. Project Architecture (5.1 Regenerative Villages, 5.2 Digital Ecosystem/App)
-6. Membership & Equity ($1,500/yr, progressive residency, equity at Year 4)
+6. Membership & Equity (1,500 EUR/yr, progressive residency, equity at Year 4)
 7. Economic Model & Treasury (revenue streams, BTC strategy, surplus allocation)
 8. Governance (Phased: founding team → shareholders → full decentralization)
 9. Roadmap (Phase 1: 2026-2028, Phase 2: 2028-2031, Phase 3: 2031+)

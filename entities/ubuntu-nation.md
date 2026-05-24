@@ -73,7 +73,7 @@ Each village = self-contained, expandable module:
 
 ## Membership & Equity Model
 
-**Base Annual Membership**: $1,500 USD (or BTC equivalent at renewal)
+**Base Annual Membership**: 1,500 EUR (or BTC equivalent at renewal)
 
 | Year | Included Stay | Equity Shares | Key Benefit |
 |------|--------------|---------------|-------------|
@@ -82,9 +82,9 @@ Each village = self-contained, expandable module:
 | 3 | 180 days | — | Half-year residency |
 | 4+ | 365 days (lifetime) | 1 Equity Share | Full residency + governance rights |
 
-**Extended stays** (member rates): Tiny house $70/wk, double $100/wk, family container $200/wk.
+**Extended stays** (member rates): Tiny house 70 EUR/wk, double 100 EUR/wk, family container 200 EUR/wk.
 
-**Equity shares** (Year 4+): Non-transferable, proportional voting rights on strategic proposals (treasury >$10k, new villages, major investments, governance changes). Voting via app with on-chain recording. Future buybacks/dividends by community vote.
+**Equity shares** (Year 4+): Non-transferable, proportional voting rights on strategic proposals (treasury >10k EUR, new villages, major investments, governance changes). Voting via app with on-chain recording. Future buybacks/dividends by community vote.
 
 ---
 
@@ -118,7 +118,7 @@ All transactions above de minimis: proposed → debated (7–14 days) → voted 
 
 | Phase | Years | Who Decides |
 |-------|-------|-------------|
-| Phase 1 | 1–2 | Founding team within community-approved budgets. Major decisions (new villages, >$50k) require advisory member vote. |
+| Phase 1 | 1–2 | Founding team within community-approved budgets. Major decisions (new villages, >50k EUR) require advisory member vote. |
 | Phase 2 | 3–4 | Equity shareholders assume full voting rights. Quadratic or conviction voting introduced. |
 | Phase 3 | 5+ | Full decentralization. Treasury multisig controlled by on-chain governance or elected council with term limits. Legal entity → member-owned cooperative or Swiss foundation. |
 
@@ -129,7 +129,7 @@ All transactions above de minimis: proposed → debated (7–14 days) → voted 
 ## Roadmap & Milestones
 
 ### Phase 1: Foundation (2026–2028)
-- Secure $1,000,000 Phase-1 capital
+- Secure 1,000,000 EUR Phase-1 capital
 - Acquire land + break ground on Village 01 (Tenerife or El Salvador) — Q1/Q2 2027
 - Launch UBUNTU App (membership, booking, education, voting)
 - Onboard 150–300 founding members
