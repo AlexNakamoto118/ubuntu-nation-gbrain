@@ -6,7 +6,7 @@
 
 ## Entities
 
-- [[alex-radu]] — Founder of UBUNTU Nation
+- [[alex-radu]] — Founder of Ubuntu Nation
 - [[andrej-karpathy]] — AI researcher, LLM Wiki pattern, autoresearch
 - [[elon-musk]] — First principles scaling framework (Isaacson, Vance, Jorgenson)
 - [[garry-tan]] — YC CEO, creator of GBrain
