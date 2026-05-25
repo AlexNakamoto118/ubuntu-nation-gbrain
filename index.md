@@ -30,6 +30,7 @@
 
 - [[schema]] — Wiki conventions, tag taxonomy, authority chain, update policy
 - [[meta/git-notes]] — Repo sync configuration
+- [[meta/agent-brain]] — Agent's system memory bridge (session start protocol, key frameworks, workflow rules)
 
 ## Raw Sources (immutable)
 
