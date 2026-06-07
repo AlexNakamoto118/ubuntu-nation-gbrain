@@ -1,13 +1,23 @@
-# Locke Setup Manifest
+# Ubuntu Nation gBrain — Setup Manifest
 
-Agent: Locke (local, macOS).
-VPS agent: remote orchestrator on Hostinger, Telegram-connected.
+_Current state: 2026-06-07 | Last audit: after removing/recreating Locky_
 
-## Architecture
-- Shared Telegram chat between VPS agent and Locke.
-- GitHub repos: ubuntu-nation-gbrain, jarvis-3000-brain.
-- Dual kanban:
-  - demovps — cross-agent board (VPS ↔ Locke)
-  - locke-team — Locke-specific local team board
-- VPS has r/w push access to GitHub brain repos.
-- Local (Locke) clones repos at ~/.hermes/gbrain/*
+## Scope
+- Shared knowledge wiki for Ubuntu Nation
+- Markdown-only; no code, no build step
+
+## Key Layout
+- `concepts/` — strategy/brand/engineering notes
+- `entities/` — entity profiles/notes
+- `research/` — research logs
+- `raw/articles/` — source article drafts
+- `_meta/` — repo-level notes/archive
+
+## Collaboration
+- Agent identity/runtime lives in `jarvis-3000-brain`
+- This repo is publication/storage for reusable Ubuntu Nation knowledge
+- Agents read/write here via GitHub; preserve README/SCHEMA/indexing conventions
+
+## Notes
+- No executable artifacts detected; docs-only content
+- Structural decisions live in `concepts/` and `_meta/`
