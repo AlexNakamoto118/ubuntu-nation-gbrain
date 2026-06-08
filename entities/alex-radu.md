@@ -45,6 +45,13 @@ Building a sovereign, AI-native global society:
 - First principles thinking — break problems to fundamental truths, reject reasoning by analogy
 - Brave Search preferred for web research
 
+## X / Social Media Accounts
+
+- **@alexnakamotojr** — Personal X account (most important, top of hierarchy). Alex IS the brand.
+- **@_ubuntu_nation** — Ubuntu Nation's official brand X account.
+- **@notyetfalsed** — Popperianism account (formerly @satoshiyouthorg). Freedom philosophy, supports the project.
+- **Marketing channels**: X, Instagram, TikTok.
+
 ## Related
 
 - [[ubuntu-nation]] — His project

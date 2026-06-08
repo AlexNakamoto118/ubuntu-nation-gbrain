@@ -263,25 +263,45 @@ For every piece of communication, ask:
 
 ---
 
-## The X Account Strategy (When Connected)
+## The X Account Strategy
 
-Once Alex's X account is connected to the agent:
+### Account Hierarchy
+1. **@alexnakamotojr** — Alex's personal account (most important, top of hierarchy). Alex IS the brand.
+2. **@_ubuntu_nation** — Ubuntu Nation's official brand account.
+3. **@notyetfalsed** — Popperianism account (formerly @satoshiyouthorg). Creates conversation about freedom, supports the project.
 
-### Content Mix
+### Marketing Channels
+Primary: **X, Instagram, TikTok**
+
+### Content Mix (per account)
+**@alexnakamotojr (personal — highest priority):**
 - 40% — Original thoughts on sovereignty, Bitcoin, AI, freedom
 - 25% — UBUNTU Nation updates, milestones, transparency
 - 20% — Engagement (replying to others, building relationships)
 - 10% — Retweets/amplification of aligned voices
 - 5% — Personal (humanize the founder)
 
+**@_ubuntu_nation (brand):**
+- 50% — Project updates, milestones, transparency
+- 25% — Engagement with community and crypto ecosystem
+- 15% — Retweets/amplification of members and aligned projects
+- 10% — Educational content about sovereign societies, Bitcoin, regenerative living
+
+**@notyetfalsed (Popperianism):**
+- 60% — Philosophy of freedom, Popperian epistemology, conjecture and refutation
+- 20% — Engagement with philosophy/freedom/crypto communities
+- 20% — Support for Ubuntu Nation (without being a UN marketing account)
+
 ### Posting Cadence
-- 3-5 posts/day (mix of original and replies)
-- 1 long-form thread/week (deep dive on one topic)
-- 1 Spaces/month (live audio with community)
+- 3-5 posts/day on @alexnakamotojr (mix of original and replies)
+- 2-3 posts/day on @_ubuntu_nation
+- 1-2 posts/day on @notyetfalsed
+- 1 long-form thread/week on @alexnakamotojr (deep dive on one topic)
+- 1 Spaces/month on @alexnakamotojr (live audio with community)
 
 ### Automation Rules
 - Auto-reply to DMs with waitlist link
-- Auto-track mentions and sentiment
+- Auto-track mentions and sentiment (all 3 accounts)
 - Auto-post treasury updates when milestones hit
 - Auto-schedule content based on optimal engagement times
 

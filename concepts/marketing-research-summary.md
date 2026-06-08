@@ -57,12 +57,28 @@
 - **Weekly Rhythm**: Long-form, engagement, short-form, outreach, analytics, experimental, rest
 - **Monthly Rituals**: LLM audit, content audit, competitor scan, member interview
 
-## Immediate Next Steps for UBUNTU Nation
-1. Connect X account for automated content distribution
-2. Implement AI Revenue Agent pipeline
-3. Run first LLM positioning audit
-4. Optimize waitlist landing page for conversion
-5. Launch Phase 1 growth tactics (Alex's content, origin story, Bitcoin outreach)
+## X Accounts & Social Media
+
+### Account Hierarchy
+1. **@alexnakamotojr** — Alex's personal X account (most important). Alex IS the brand.
+2. **@_ubuntu_nation** — Ubuntu Nation's official brand X account.
+3. **@notyetfalsed** — Popperianism account (formerly @satoshiyouthorg). Freedom philosophy, supports the project.
+
+### Marketing Channels
+**Primary: X, Instagram, TikTok**
+
+### Content Strategy Framework
+- **Content Pillars**: Sovereignty, Bitcoin, Regenerative Living, Community, AI-Native Ops
+- **Weekly Rhythm**: Long-form, engagement, short-form, outreach, analytics, experimental, rest
+- **Monthly Rituals**: LLM audit, content audit, competitor scan, member interview
+
+### Immediate Next Steps for Ubuntu Nation
+1. Connect all 3 X accounts for automated content distribution
+2. Set up Instagram and TikTok accounts for Ubuntu Nation
+3. Implement AI Revenue Agent pipeline
+4. Run first LLM positioning audit
+5. Optimize waitlist landing page for conversion
+6. Launch Phase 1 growth tactics (Alex's content, origin story, Bitcoin outreach)
 
 ## Tools & Systems Leveraged
 - Obsidian Vault as external memory/knowledge base

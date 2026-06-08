@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-05-25 | Total pages: 11
+> Last updated: 2026-06-01 | Total pages: 14
 
 ## Entities
 
@@ -15,6 +15,9 @@
 ## Concepts
 
 - [[agent-memory-architecture]] — Memory system: GBrain + Karpathy Wiki + Voxyz
+- [[multi-agent-memory-sync]] — Multi-device agent memory synchronization (Pejman, tonbi)
+- [[eval-loop-pattern]] — Quality control for AI output / eval loops (Machina)
+- [[pydantic-ontology-pattern]] — Schema-driven agent memory with Pydantic (Akshay/Zep)
 - [[master-marketing-strategy]] — UBUNTU Nation's integrated marketing/sales strategy (continuously updated)
 - [[llm-wiki-pattern]] — Karpathy's LLM-maintained knowledge base pattern
 - [[brand-engineering]] — Brand legibility, positioning, deep-tech marketing
@@ -41,3 +44,4 @@
 - [[raw/articles/karpathy-llm-wiki-tweet]] — Karpathy LLM Knowledge Bases tweet
 - [[raw/articles/voxyz-memory-framework]] — Remember, Cite, Forget framework
 - [[raw/articles/ubuntunation-whitepaper]] — UBUNTU Nation whitepaper (May 2026)
+- [[raw/articles/ai-agent-architecture-reading-notes]] — 7 X articles on AI agent architecture (June 2026)

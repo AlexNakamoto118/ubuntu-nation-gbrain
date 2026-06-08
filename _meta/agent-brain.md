@@ -23,6 +23,8 @@
 - Wiki vault: ~/ubuntu-nation-wiki/ (UBUNTU Labs Vault). Synced to GitHub.
 - Entity list rule: only add important people (founder, key team, major partner) or when Alex says so.
 - Current entities: Alex Radu, Andrej Karpathy, Garry Tan, Elon Musk, UBUNTU Nation.
+- X accounts: @alexnakamotojr (personal, most important), @_ubuntu_nation (brand), @notyetfalsed (Popperianism, formerly @satoshiyouthorg). Hierarchy: personal > brand > popperian.
+- Marketing channels: X, Instagram, TikTok.
 - X account will be connected soon for content creation.
 
 ### SOUL.md (Agent Persona)

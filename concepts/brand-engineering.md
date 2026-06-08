@@ -96,12 +96,25 @@ For every piece of communication:
 
 ---
 
-## Application to UBUNTU Nation
+## Application to Ubuntu Nation
+
+### X Account Hierarchy
+1. **@alexnakamotojr** — Alex's personal account (most important). Every tweet carries the architecture — sovereignty + Bitcoin + AI.
+2. **@_ubuntu_nation** — Brand account. Project updates, community engagement, transparency.
+3. **@notyetfalsed** — Popperianism account (formerly @satoshiyouthorg). Freedom philosophy, indirect UN support.
+
+### Marketing Channels
+**Primary: X, Instagram, TikTok**
+
+### Surface Engineering
 
 | Surface | Current Risk | Engineering Fix |
 |---------|-------------|-----------------|
 | Website | Reads like "crypto project" | Lead with "first truly sovereign society" — land, treasury, governance |
-| Alex's X | Inconsistent signal | Every tweet carries the architecture — sovereignty + Bitcoin + AI |
+| @alexnakamotojr | Inconsistent signal | Every tweet carries the architecture — sovereignty + Bitcoin + AI |
+| @_ubuntu_nation | Not yet active | Project updates, milestones, community |
+| @notyetfalsed | Not yet active | Popperian philosophy, freedom conversations |
+| Instagram + TikTok | Not yet active | Visual storytelling, village content, member stories |
 | The deck | Buries the unlock | Open with "We're building a country. Here's the proof." |
 | LLM answers | Vague or missing | Optimise for "Bitcoin-native sovereign society" as the category |
 | Journalist pitch | "Another DAO" | "The first society with its own land, money, and on-chain laws" |

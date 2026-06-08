@@ -82,3 +82,9 @@ This vault implements all three patterns:
 - **Cite**: Every wiki page has `sources:` frontmatter + provenance markers
 - **Forget**: Expiry mechanisms defined per page type; lint catches stale content
 - **Compounding**: Every research session, every Q&A, every decision files back in
+
+## Further Reading
+
+- [[multi-agent-memory-sync]] — Multi-device agent memory synchronization problem and approaches
+- [[eval-loop-pattern]] — Quality control for AI output (Machina)
+- [raw/articles/ai-agent-architecture-reading-notes.md] — Full raw notes from 7 X articles (June 2026)
